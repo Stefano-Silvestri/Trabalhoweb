@@ -1,0 +1,44 @@
+
+body{
+    font-size: 100%;
+    background-color: #00644a;
+
+}
+
+.menu {
+    position: absolute;
+    left: 800px;
+    top: 50px;
+}
+
+.link-menu {
+    display: flex;
+    gap:  32px;
+}
+
+.link-menu-item{
+    font-family: 'Sarala', sans-serif ;
+    color: #FFF2E7;
+    font-weight: 400;
+    font-size: 18px;
+
+}
+
+.imagem{
+    position: absolute;
+    left: 1000px;
+    top: 100px;
+    height: 250px;
+}
+
+.Historia{
+    font-family: 'Sarala', sans-serif ;
+    color: #FFF2E7;
+    font-weight: 400;
+    font-size: 18px;
+    position: absolute;
+    left: 200px;
+    top: 100px;
+    height: 250px;
+
+}
